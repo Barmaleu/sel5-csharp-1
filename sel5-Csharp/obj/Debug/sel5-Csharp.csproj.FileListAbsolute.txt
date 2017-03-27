@@ -1,0 +1,13 @@
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\sel5-Csharp.dll
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\sel5-Csharp.pdb
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\nunit.framework.dll
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\WebDriver.dll
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\WebDriver.Support.dll
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\nunit.framework.xml
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\WebDriver.xml
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\WebDriver.Support.xml
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\obj\Debug\sel5-Csharp.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\obj\Debug\sel5-Csharp.dll
+c:\users\user1\documents\visual studio 2015\Projects\sel5-Csharp\sel5-Csharp\obj\Debug\sel5-Csharp.pdb
